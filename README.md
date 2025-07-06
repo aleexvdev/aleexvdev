@@ -32,7 +32,7 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS3" />
@@ -54,6 +54,10 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next JS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue JS" />
   <img width="12" />
@@ -80,10 +84,6 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" title="Jira" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="Trello" />
 </div>
 
 ###
