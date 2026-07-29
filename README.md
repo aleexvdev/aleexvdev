@@ -13,14 +13,14 @@
 ###
 
 <p align="left">
-Full Stack Developer with ~4 years of experience building complete solutions, from the backend to the final pixel. Based in Peru (UTC-5), I focus on scalable applications tailored to real client needs, and I'm comfortable working independently or within multidisciplinary teams. <br>
+Full Stack Developer with ~4 years of experience building complete solutions, from the backend to the final pixel. Based in Peru, I focus on scalable applications tailored to real client needs, and I'm comfortable working independently or within multidisciplinary teams. <br>
 Currently available for new opportunities. Explore my repositories, and feel free to reach out if you'd like to work together or just talk tech!
 </p>
 
 ###
 
 <p align="left">
-🎓 Bachelor's in Computer Engineering, Universidad Nacional José Faustino Sánchez Carrión (2016-2021)<br>
+🎓 Computer Engineering, Universidad Nacional José Faustino Sánchez Carrión<br>
 🎮 I love sports and video games.<br>
 🎧 Code with rock and electronics: my formula to innovate.<br>
 🚀 True mastery comes through consistency in learning, the willingness to adapt, and perseverance through challenges.
@@ -55,7 +55,7 @@ Currently available for new opportunities. Explore my repositories, and feel fre
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
