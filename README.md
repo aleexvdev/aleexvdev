@@ -28,6 +28,12 @@ Currently available for new opportunities. Explore my repositories, and feel fre
 
 ###
 
+<p align="left">
+🔭 <b>Right now:</b> deepening my backend architecture skills and looking for ways to ship secure, production-ready features faster on every project I build.
+</p>
+
+###
+
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 ###
@@ -90,10 +96,10 @@ Currently available for new opportunities. Explore my repositories, and feel fre
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **CodeRender 📸** | Modern code screenshot generator for developers. Create stunning code snapshots for social sharing using Next.js and TypeScript. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coderender.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/coderender) |
-| **Weather App ⛈️** | Weather App is an interactive web application designed to display accurate and up-to-date weather information. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app-weather-v2.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/app-weather) |
-| **Food App 🍜** | A platform to explore and share recipes from around the world, featuring user-friendly search and filtering options. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foodrecipes-alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/food-recipes) |
-| **SecureAuth Next 🔒** | Built with Node.js, TypeScript, and Next.js, this project offers key features like two-factor authentication (2FA), session management, email verification, and route protection. With a production-ready framework, it is ideal for building secure and scalable applications. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-auth-v1.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/secureauth-next) |
+| **CodeRender 📸** | Turns code into styled, shareable screenshots. Built to explore the Next.js App Router and client-side canvas rendering together, keeping image export instant with no server round-trip. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coderender.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/coderender) |
+| **Weather App ⛈️** | Weather forecasting app with search and favorites. The core challenge was consuming a third-party API cleanly in TypeScript: typed responses, request caching, and graceful handling of failed or rate-limited calls. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app-weather-v2.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/app-weather) |
+| **Food App 🍜** | Recipe discovery platform pulling from a public API with inconsistent data. Most of the work went into search/filter logic that stays reliable despite missing fields and irregular response shapes. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foodrecipes-alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/food-recipes) |
+| **SecureAuth Next 🔒** | A reusable auth foundation for the parts every project needs but most skip: 2FA, session invalidation, email verification, and route protection — built once in Next.js and Express so I'm not solving auth from scratch on every client project. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-auth-v1.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/secureauth-next) |
 | **Portfolio ✨** | A personal portfolio showcasing my projects, skills, and experiences, built with modern web technologies like Astro, React, TypeScript, and TailwindCSS to ensure optimal performance and responsive design. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/portfolio.dev/) |
 
 </div>
