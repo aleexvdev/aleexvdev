@@ -13,14 +13,14 @@
 ###
 
 <p align="left">
-I am a Full Stack Developer focused on developing robust and scalable web applications, excelling in both front-end and back-end. With a constant emphasis on continuous improvement and adopting new technologies, I am dedicated to providing innovative and efficient solutions. My mission is to transform ideas into impactful digital realities, always striving to exceed expectations and make a difference in every project. <br>
-I am always open to new opportunities and collaborations. Explore my repositories, and feel free to contact me if you'd like us to work together or simply chat about technology!
+Full Stack Developer with ~4 years of experience building complete solutions, from the backend to the final pixel. Based in Peru (UTC-5), I focus on scalable applications tailored to real client needs, and I'm comfortable working independently or within multidisciplinary teams. <br>
+Currently available for new opportunities. Explore my repositories, and feel free to reach out if you'd like to work together or just talk tech!
 </p>
 
 ###
 
 <p align="left">
-🎓 Computer Engineer<br>
+🎓 Bachelor's in Computer Engineering, Universidad Nacional José Faustino Sánchez Carrión (2016-2021)<br>
 🎮 I love sports and video games.<br>
 🎧 Code with rock and electronics: my formula to innovate.<br>
 🚀 True mastery comes through consistency in learning, the willingness to adapt, and perseverance through challenges.
@@ -100,10 +100,6 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 | **Weather App ⛈️** | Weather App is an interactive web application designed to display accurate and up-to-date weather information. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app-weather-v2.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/app-weather) |
 | **Food App 🍜** | A platform to explore and share recipes from around the world, featuring user-friendly search and filtering options. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foodrecipes-alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/food-recipes) |
 | **SecureAuth Next 🔒** | Built with Node.js, TypeScript, and Next.js, this project offers key features like two-factor authentication (2FA), session management, email verification, and route protection. With a production-ready framework, it is ideal for building secure and scalable applications. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-auth-v1.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/secureauth-next) |
-| **Auth Laravel 🔒** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
-| **FinanceFlow 💰** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
-| **Red Social 👽** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
-| **ShopNexlar 🛒** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
 | **Portfolio ✨** | A personal portfolio showcasing my projects, skills, and experiences, built with modern web technologies like Astro, React, TypeScript, and TailwindCSS to ensure optimal performance and responsive design. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/portfolio.dev/) |
 
 </div>
@@ -131,7 +127,7 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <a href="https://www.facebook.com/alexvalverde666"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/alexvalverde666" alt="Facebook" /></a>
   <a href="https://www.instagram.com/alexvalverde._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexvalverde._/" alt="Instagram" /></a>
   <a href="https://x.com/alexvalverde666"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/alexvalverde666" alt="Twitter" /></a>
-  <a href="alexvalverde.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=valverdealex25@gmail.com" alt="Gmail" /></a>
+  <a href="mailto:alexvalverde.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <h4 align="left">Thank you for visiting my GitHub profile!  <img width="25" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/cat_2.png"/></h4>
