@@ -41,8 +41,6 @@ Currently available for new opportunities. Explore my repositories, and feel fre
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React JS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node JS" />
@@ -59,8 +57,6 @@ Currently available for new opportunities. Explore my repositories, and feel fre
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" title="Vue JS" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
@@ -68,8 +64,6 @@ Currently available for new opportunities. Explore my repositories, and feel fre
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="GraphQL" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="Amazon Web Services" />
   <img width="12" />
